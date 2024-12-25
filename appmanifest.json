@@ -1,0 +1,42 @@
+{
+	"name": "Your Tree",
+	"short_name": "Your Tree",
+	"description": "\"Your Tree\" is a soothing, relaxing game where you can create the nicest holiday atmosphere by decorating your own Ukranian Christmas tree. Choose from a variety of ornaments and lights, and decorations to personalize your tree just the way you like it.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "18x18",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "34x34",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "66x66",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "513x513",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
